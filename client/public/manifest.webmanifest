@@ -1,0 +1,10 @@
+{
+  "name": "Trade Journal",
+  "short_name": "Journal",
+  "description": "Record every trade and see which strategy pays.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#14263A",
+  "theme_color": "#14263A",
+  "icons": [{ "src": "/icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any" }]
+}
